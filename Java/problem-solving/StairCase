@@ -15,7 +15,7 @@ public class Solution {
                 System.out.print(" ");
             }
             for(int k=0;k<=n-i;k++){
-                System.out.print("*");
+                System.out.print("#");
             } System.out.println();
         }
 /**-----------------------------------------------------------------------------------**/
